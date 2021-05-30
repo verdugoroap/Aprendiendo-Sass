@@ -1,0 +1,11 @@
+.header{
+    height: 300px;
+    background-color: $rudy-pink;
+    padding-top: 120px;
+
+    &__parrafo{
+        text-align: right;
+        color: $nickel;
+        font-size: 30px;
+    }
+}

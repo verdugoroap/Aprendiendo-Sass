@@ -1,0 +1,18 @@
+//aqui realizamos los @import
+
+
+//abstract
+@import "abstract/variables";
+
+//vendor
+@import "vendor/Bootstrap4.6/bootstrap.scss";
+
+//base
+@import "base/reset";
+
+//layout
+@import "layout/header";
+@import "layout/footer";
+
+//pages
+@import "pages/index"
